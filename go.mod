@@ -8,11 +8,10 @@ require (
 	github.com/golang-jwt/jwt/v5 v5.2.1
 	github.com/google/uuid v1.6.0
 	github.com/jackc/pgx/v5 v5.5.5
-	github.com/lox/go-touchid v0.0.0-20170712105233-619cc8e578d0
 	github.com/niko-labs/libs-go v1.0.7
 	go.opentelemetry.io/contrib/instrumentation/github.com/gin-gonic/gin/otelgin v0.51.0
 	go.opentelemetry.io/otel v1.26.0
-	golang.org/x/crypto v0.22.0
+	golang.org/x/crypto v0.31.0
 )
 
 require (
@@ -51,9 +50,9 @@ require (
 	go.opentelemetry.io/proto/otlp v1.2.0 // indirect
 	golang.org/x/arch v0.8.0 // indirect
 	golang.org/x/net v0.24.0 // indirect
-	golang.org/x/sync v0.7.0 // indirect
-	golang.org/x/sys v0.20.0 // indirect
-	golang.org/x/text v0.15.0 // indirect
+	golang.org/x/sync v0.10.0 // indirect
+	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/text v0.21.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20240429193739-8cf5692501f6 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240429193739-8cf5692501f6 // indirect
 	google.golang.org/grpc v1.63.2 // indirect
